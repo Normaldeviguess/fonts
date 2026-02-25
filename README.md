@@ -17,3 +17,4 @@ Ctrl + Alt + F,Wide,ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔ
 Ctrl + Alt + G,SmallCaps,ᴀʙᴄᴅᴇғɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢ
 Ctrl + 0,Normal,Reset to standard typing
 Ctrl + Alt + Esc,Exit,Kills the script process
+important. GET AUTOHOTKEY.COM 1.1 VERSION BEFORE
